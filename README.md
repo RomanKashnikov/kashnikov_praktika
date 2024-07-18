@@ -1,1 +1,0 @@
-# kashnikov_praktika
