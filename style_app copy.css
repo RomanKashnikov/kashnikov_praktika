@@ -1,0 +1,168 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+.f1 {
+	font-family: "Bona Nova SC", serif;
+	font-weight: 400;
+	font-size: 60px;
+	font-style: normal;
+}
+  
+.f12 {
+	font-family: "Bona Nova SC", serif;
+	font-weight: 700;
+	font-size: 60px;
+	font-style: normal;
+}
+  
+.f13 {
+	font-family: "Bona Nova SC", serif;
+	font-weight: 400;
+	font-size: 60px;
+	font-style: italic;
+}
+  
+.f2 {
+	font-family: "Baskervville SC", serif;
+	font-weight: 400;
+	font-size: 70px;
+	font-style: normal;
+}
+  
+.f3 {
+	font-family: "Bodoni Moda SC", serif;
+	font-weight: 410;
+	font-size: 60px;
+	font-style: normal;
+}
+  
+body {
+	margin: 0;
+	background-color: #EEDACC;
+	color: #4F2000;
+}
+
+.welcome_quote{
+	font-family: "Bona Nova SC", serif;
+	font-size: 25px;
+	font-style: italic;
+	margin-top: 50px;
+}
+
+.section_title{
+	font-family: "Baskervville SC", serif;
+	font-size: 25px;
+	font-style: italic;
+	margin-top: 70px;
+}
+
+.img_interiors img{
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 30px;
+	border-radius: 15px;
+}
+
+.img_interiors figure{
+	margin-top: 15px;
+
+	font-family: "Bona Nova SC", serif;
+	font-size: 20px;
+}
+
+.infomation_items img{
+	width: 100%;
+	margin-top: 15px;
+}
+
+.infomation_items h6{
+	font-family: "Baskervville SC", serif;
+	color: #120f0d;
+    font-size: 100%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.catalog img{
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 30px;
+	border-radius: 15px;
+}
+
+.catalog h3{
+	font-family: "Bona Nova SC", serif;
+	font-size: 25px;
+	margin-top: 50px;
+	margin-bottom: 0;
+}
+
+.catalog figure{
+	margin-top: 15px;
+
+	font-family: "Bona Nova SC", serif;
+	font-size: 20px;
+}
+
+.collab_color{
+	background-color: black;
+	color: #6b6b6b;
+}
+
+.col_img{
+	width: 100%;
+}
+
+.collaborations figure{
+	margin-top: 30px;
+	margin-bottom: 50px;
+
+	font-family: "Bodoni Moda SC", serif;
+	font-size: 20px;
+}
+
+.zaha_furn{
+	width: 60%;
+	border-radius: 20px;
+	margin-left: 20%;
+	margin-top: 10px;
+}
+
+footer img{
+	width: 40%;
+	margin-left: 30%;
+	margin-top: 70px;
+	margin-bottom: 20px;
+}
+
+.footer_list{
+	list-style: none;
+	margin-bottom: 30px;
+}
+
+.footer_list a{
+	text-decoration: none;
+	color: #120f0d;
+}
+
+.footer_list a{
+	font-size: 20px;
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+	opacity: 0.7;
+
+	transition: opacity 0.4s;
+}
+
+.footer_list h6{
+	font-size: 30px;
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+	opacity: 1;
+
+	margin: 0px;
+	margin-bottom: 10px;
+}
+
